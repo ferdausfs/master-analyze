@@ -1,4 +1,4 @@
-name = "my-worker"
+name = "master-analyze"
 main = "src/index.js"
 
 # Latest stable compatibility
