@@ -1,0 +1,11 @@
+name = "my-worker"
+main = "src/index.js"
+
+# Latest stable compatibility
+compatibility_date = "2025-01-01"
+
+# Use workers.dev subdomain
+workers_dev = true
+
+# (Optional but recommended)
+# account_id = "YOUR_ACCOUNT_ID"
